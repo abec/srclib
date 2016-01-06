@@ -94,7 +94,7 @@
 		{
 			"ImportPath": "golang.org/x/tools/godoc/vfs",
 			"Comment": "null-1259",
-			"Rev": "a7e14835e46bb13da10fa8b9c9c5e7f2f378f568"
+			"Rev": "542ffc7e75cf45ac7ad456664a710cd96338fda6"
 		},
 		{
 			"ImportPath": "sourcegraph.com/sourcegraph/go-diff/diff",
@@ -103,7 +103,7 @@
 		{
 			"ImportPath": "sourcegraph.com/sourcegraph/go-flags",
 			"Comment": "v1-203-gf819544",
-			"Rev": "f819544216a8b66157184f0976948f92a8144fe7"
+			"Rev": "dace7e122742808bf6016bdc6510649d84f2a31e"
 		},
 		{
 			"ImportPath": "sourcegraph.com/sourcegraph/go-nnz/nnz",
