@@ -6,9 +6,9 @@
 	],
 	"Deps": [
 		{
-			"ImportPath": "code.google.com/p/rog-go/parallel",
+			"ImportPath": "github.com/rogpeppe/rog-go/parallel",
 			"Comment": "null-304",
-			"Rev": "439fdb0e5184de419d058166c6b3d0e283fd33d1"
+			"Rev": "f57ad5e24ab7813942c045f86eda1066eb969e98"
 		},
 		{
 			"ImportPath": "github.com/alecthomas/binary",
@@ -131,7 +131,7 @@
 		},
 		{
 			"ImportPath": "sourcegraph.com/sourcegraph/makex",
-			"Rev": "6c095447b8cc4c600494330f349ded5ab17b50f0"
+			"Rev": "9a03b093bc189b7f30af07076ff81a309d8c7621"
 		},
 		{
 			"ImportPath": "sourcegraph.com/sourcegraph/rwvfs",

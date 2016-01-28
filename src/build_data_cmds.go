@@ -12,7 +12,7 @@ import (
 	"github.com/kr/fs"
 	"golang.org/x/tools/godoc/vfs"
 
-	"code.google.com/p/rog-go/parallel"
+	"github.com/rogpeppe/rog-go/parallel"
 
 	"sourcegraph.com/sourcegraph/go-sourcegraph/router"
 	"sourcegraph.com/sourcegraph/go-sourcegraph/sourcegraph"
