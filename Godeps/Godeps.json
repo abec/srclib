@@ -84,7 +84,7 @@
 			"Rev": "2d2cd33dd95aef16c9eac018396e3cf8e427ac41"
 		},
 		{
-			"ImportPath": "github.com/sourcegraph/mux",
+			"ImportPath": "github.com/fossas/mux",
 			"Rev": "dd22f369d469f65c3946889f5d8a1fb3933192e9"
 		},
 		{
