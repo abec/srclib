@@ -6,7 +6,7 @@ import (
 
 	"sourcegraph.com/sourcegraph/makex"
 	"sourcegraph.com/sourcegraph/srclib"
-	"sourcegraph.com/sourcegraph/srclib/buildstore"
+	// "sourcegraph.com/sourcegraph/srclib/buildstore"
 	"sourcegraph.com/sourcegraph/srclib/config"
 	"sourcegraph.com/sourcegraph/srclib/graph"
 	"sourcegraph.com/sourcegraph/srclib/plan"
@@ -17,8 +17,8 @@ import (
 const graphOp = "graph"
 
 func init() {
-	plan.RegisterRuleMaker(graphOp, makeGraphRules)
-	buildstore.RegisterDataType("graph", &graph.Output{})
+	// plan.RegisterRuleMaker(graphOp, makeGraphRules)
+	// buildstore.RegisterDataType("graph", &graph.Output{})
 }
 
 func makeGraphRules(c *config.Tree, dataDir string, existing []makex.Rule, opt plan.Options) ([]makex.Rule, error) {

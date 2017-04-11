@@ -6,7 +6,7 @@ import (
 
 	"sourcegraph.com/sourcegraph/makex"
 	"sourcegraph.com/sourcegraph/srclib"
-	"sourcegraph.com/sourcegraph/srclib/buildstore"
+	// "sourcegraph.com/sourcegraph/srclib/buildstore"
 	"sourcegraph.com/sourcegraph/srclib/config"
 	"sourcegraph.com/sourcegraph/srclib/plan"
 	"sourcegraph.com/sourcegraph/srclib/toolchain"
@@ -16,8 +16,8 @@ import (
 const depresolveOp = "depresolve"
 
 func init() {
-	plan.RegisterRuleMaker(depresolveOp, makeDepRules)
-	buildstore.RegisterDataType("depresolve", []*ResolvedDep{})
+	// plan.RegisterRuleMaker(depresolveOp, makeDepRules)
+	// buildstore.RegisterDataType("depresolve", []*ResolvedDep{})
 }
 
 func makeDepRules(c *config.Tree, dataDir string, existing []makex.Rule, opt plan.Options) ([]makex.Rule, error) {
