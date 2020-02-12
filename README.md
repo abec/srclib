@@ -1,4 +1,5 @@
 # srclib [![Build Status](https://travis-ci.org/sourcegraph/srclib.png?branch=master)](https://travis-ci.org/sourcegraph/srclib)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffossas%2Fsrclib.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffossas%2Fsrclib?ref=badge_shield)
 
 *Note: srclib is alpha.
 [Post an issue](https://github.com/sourcegraph/srclib/issues) if you have any
@@ -70,6 +71,9 @@ srclib by installing an editor plugin in your editor of choice. [See all editor 
 Sourcegraph is licensed under the [MIT License](https://tldrlegal.com/license/mit-license).
 More information in the LICENSE file.
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ffossas%2Fsrclib.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ffossas%2Fsrclib?ref=badge_large)
 
 ## Contributing
 
